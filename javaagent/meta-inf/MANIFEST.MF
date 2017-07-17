@@ -4,3 +4,5 @@ Created-By: 1.8.0_66-b17 (Oracle Corporation)
 Premain-Class: com.ibm.javametrics.instrument.Agent
 Agent-Class: com.ibm.javametrics.instrument.Agent
 Implementation-Version: 659ce35
+Export-Package: com.ibm.javametrics,com.ibm.javametrics.instrument
+
